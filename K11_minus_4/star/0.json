@@ -57,14 +57,12 @@
     "drawing_recipe": [
         {
             "edge_label": 0,
-            "is_first_edge": true,
             "u": 0,
             "v": 1
         },
         {
             "crossed_edges": [],
             "edge_label": 1,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 2
@@ -72,7 +70,6 @@
         {
             "crossed_edges": [],
             "edge_label": 2,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 3
@@ -80,7 +77,6 @@
         {
             "crossed_edges": [],
             "edge_label": 3,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 4
@@ -88,7 +84,6 @@
         {
             "crossed_edges": [],
             "edge_label": 4,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 5
@@ -96,7 +91,6 @@
         {
             "crossed_edges": [],
             "edge_label": 5,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 6
@@ -104,7 +98,6 @@
         {
             "crossed_edges": [],
             "edge_label": 6,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 7
@@ -112,7 +105,6 @@
         {
             "crossed_edges": [],
             "edge_label": 7,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 8
@@ -120,7 +112,6 @@
         {
             "crossed_edges": [],
             "edge_label": 8,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 0,
             "v": 9
@@ -128,7 +119,6 @@
         {
             "crossed_edges": [],
             "edge_label": 9,
-            "is_first_edge": false,
             "start_after_edge": 0,
             "u": 1,
             "v": 2
@@ -136,7 +126,6 @@
         {
             "crossed_edges": [],
             "edge_label": 10,
-            "is_first_edge": false,
             "start_after_edge": 9,
             "u": 1,
             "v": 3
@@ -144,7 +133,6 @@
         {
             "crossed_edges": [],
             "edge_label": 11,
-            "is_first_edge": false,
             "start_after_edge": 10,
             "u": 1,
             "v": 4
@@ -152,7 +140,6 @@
         {
             "crossed_edges": [],
             "edge_label": 12,
-            "is_first_edge": false,
             "start_after_edge": 11,
             "u": 1,
             "v": 5
@@ -160,7 +147,6 @@
         {
             "crossed_edges": [],
             "edge_label": 13,
-            "is_first_edge": false,
             "start_after_edge": 12,
             "u": 1,
             "v": 6
@@ -171,7 +157,6 @@
                 5
             ],
             "edge_label": 14,
-            "is_first_edge": false,
             "start_after_edge": 11,
             "u": 1,
             "v": 7
@@ -179,7 +164,6 @@
         {
             "crossed_edges": [],
             "edge_label": 15,
-            "is_first_edge": false,
             "start_after_edge": 13,
             "u": 1,
             "v": 8
@@ -187,7 +171,6 @@
         {
             "crossed_edges": [],
             "edge_label": 16,
-            "is_first_edge": false,
             "start_after_edge": 15,
             "u": 1,
             "v": 9
@@ -195,7 +178,6 @@
         {
             "crossed_edges": [],
             "edge_label": 17,
-            "is_first_edge": false,
             "start_after_edge": 1,
             "u": 2,
             "v": 3
@@ -205,7 +187,6 @@
                 10
             ],
             "edge_label": 18,
-            "is_first_edge": false,
             "start_after_edge": 17,
             "u": 2,
             "v": 4
@@ -217,7 +198,6 @@
                 14
             ],
             "edge_label": 19,
-            "is_first_edge": false,
             "start_after_edge": 17,
             "u": 2,
             "v": 5
@@ -229,7 +209,6 @@
                 15
             ],
             "edge_label": 20,
-            "is_first_edge": false,
             "start_after_edge": 9,
             "u": 2,
             "v": 6
@@ -241,7 +220,6 @@
                 7
             ],
             "edge_label": 21,
-            "is_first_edge": false,
             "start_after_edge": 20,
             "u": 2,
             "v": 7
@@ -252,7 +230,6 @@
                 16
             ],
             "edge_label": 22,
-            "is_first_edge": false,
             "start_after_edge": 20,
             "u": 2,
             "v": 8
@@ -262,7 +239,6 @@
                 0
             ],
             "edge_label": 23,
-            "is_first_edge": false,
             "start_after_edge": 21,
             "u": 2,
             "v": 9
@@ -272,7 +248,6 @@
                 19
             ],
             "edge_label": 24,
-            "is_first_edge": false,
             "start_after_edge": 2,
             "u": 3,
             "v": 4
@@ -283,7 +258,6 @@
                 14
             ],
             "edge_label": 25,
-            "is_first_edge": false,
             "start_after_edge": 2,
             "u": 3,
             "v": 5
@@ -298,7 +272,6 @@
                 15
             ],
             "edge_label": 26,
-            "is_first_edge": false,
             "start_after_edge": 10,
             "u": 3,
             "v": 6
@@ -310,7 +283,6 @@
                 5
             ],
             "edge_label": 27,
-            "is_first_edge": false,
             "start_after_edge": 2,
             "u": 3,
             "v": 7
@@ -324,7 +296,6 @@
                 21
             ],
             "edge_label": 28,
-            "is_first_edge": false,
             "start_after_edge": 2,
             "u": 3,
             "v": 8
@@ -335,7 +306,6 @@
                 0
             ],
             "edge_label": 29,
-            "is_first_edge": false,
             "start_after_edge": 17,
             "u": 3,
             "v": 9
@@ -345,7 +315,6 @@
                 14
             ],
             "edge_label": 30,
-            "is_first_edge": false,
             "start_after_edge": 3,
             "u": 4,
             "v": 5
@@ -356,7 +325,6 @@
                 12
             ],
             "edge_label": 31,
-            "is_first_edge": false,
             "start_after_edge": 30,
             "u": 4,
             "v": 6
@@ -369,7 +337,6 @@
                 5
             ],
             "edge_label": 32,
-            "is_first_edge": false,
             "start_after_edge": 3,
             "u": 4,
             "v": 7
@@ -383,7 +350,6 @@
                 20
             ],
             "edge_label": 33,
-            "is_first_edge": false,
             "start_after_edge": 31,
             "u": 4,
             "v": 8
@@ -399,7 +365,6 @@
                 0
             ],
             "edge_label": 34,
-            "is_first_edge": false,
             "start_after_edge": 24,
             "u": 4,
             "v": 9
@@ -407,7 +372,6 @@
         {
             "crossed_edges": [],
             "edge_label": 35,
-            "is_first_edge": false,
             "start_after_edge": 4,
             "u": 5,
             "v": 6
@@ -417,7 +381,6 @@
                 5
             ],
             "edge_label": 36,
-            "is_first_edge": false,
             "start_after_edge": 4,
             "u": 5,
             "v": 7
@@ -427,7 +390,6 @@
                 5
             ],
             "edge_label": 37,
-            "is_first_edge": false,
             "start_after_edge": 36,
             "u": 5,
             "v": 8
@@ -441,7 +403,6 @@
                 21
             ],
             "edge_label": 38,
-            "is_first_edge": false,
             "start_after_edge": 37,
             "u": 5,
             "v": 9
@@ -452,7 +413,6 @@
                 37
             ],
             "edge_label": 39,
-            "is_first_edge": false,
             "start_after_edge": 5,
             "u": 6,
             "v": 7
@@ -462,7 +422,6 @@
                 38
             ],
             "edge_label": 40,
-            "is_first_edge": false,
             "start_after_edge": 39,
             "u": 6,
             "v": 8
@@ -475,7 +434,6 @@
                 21
             ],
             "edge_label": 41,
-            "is_first_edge": false,
             "start_after_edge": 40,
             "u": 6,
             "v": 9
@@ -483,7 +441,6 @@
         {
             "crossed_edges": [],
             "edge_label": 42,
-            "is_first_edge": false,
             "start_after_edge": 39,
             "u": 6,
             "v": 10
@@ -491,7 +448,6 @@
         {
             "crossed_edges": [],
             "edge_label": 43,
-            "is_first_edge": false,
             "start_after_edge": 21,
             "u": 7,
             "v": 8
@@ -502,7 +458,6 @@
                 7
             ],
             "edge_label": 44,
-            "is_first_edge": false,
             "start_after_edge": 6,
             "u": 7,
             "v": 9
@@ -512,7 +467,6 @@
                 21
             ],
             "edge_label": 45,
-            "is_first_edge": false,
             "start_after_edge": 7,
             "u": 8,
             "v": 9
@@ -526,7 +480,6 @@
                 39
             ],
             "edge_label": 46,
-            "is_first_edge": false,
             "start_after_edge": 12,
             "u": 1,
             "v": 10
@@ -537,7 +490,6 @@
                 39
             ],
             "edge_label": 47,
-            "is_first_edge": false,
             "start_after_edge": 38,
             "u": 5,
             "v": 10
@@ -548,7 +500,6 @@
                 38
             ],
             "edge_label": 48,
-            "is_first_edge": false,
             "start_after_edge": 43,
             "u": 7,
             "v": 10
@@ -558,7 +509,6 @@
                 38
             ],
             "edge_label": 49,
-            "is_first_edge": false,
             "start_after_edge": 40,
             "u": 8,
             "v": 10
@@ -572,7 +522,6 @@
                 40
             ],
             "edge_label": 50,
-            "is_first_edge": false,
             "start_after_edge": 41,
             "u": 9,
             "v": 10
