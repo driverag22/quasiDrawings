@@ -1,6 +1,8 @@
 {
     "kplane": 17,
     "num_vertices": 12,
+    "num_edges": 57,
+    "num_crossings": 107,
     "abstract_graph": [
         [
             0,
@@ -207,27 +209,27 @@
             10
         ],
         [
+            0,
+            11
+        ],
+        [
+            1,
+            11
+        ],
+        [
+            2,
+            11
+        ],
+        [
+            3,
+            11
+        ],
+        [
             4,
             11
         ],
         [
-            5,
-            11
-        ],
-        [
-            6,
-            11
-        ],
-        [
-            7,
-            11
-        ],
-        [
-            8,
-            11
-        ],
-        [
-            9,
+            10,
             11
         ]
     ],
@@ -377,13 +379,12 @@
         },
         {
             "crossed_edges": [
-                0,
-                8,
-                7,
-                6
+                2,
+                3,
+                4
             ],
             "edge_label": 20,
-            "start_after_edge": 9,
+            "start_after_edge": 1,
             "u": 2,
             "v": 6
         },
@@ -391,7 +392,7 @@
             "crossed_edges": [
                 0,
                 8,
-                15
+                7
             ],
             "edge_label": 21,
             "start_after_edge": 9,
@@ -404,7 +405,7 @@
                 8
             ],
             "edge_label": 22,
-            "start_after_edge": 21,
+            "start_after_edge": 9,
             "u": 2,
             "v": 8
         },
@@ -426,26 +427,21 @@
         },
         {
             "crossed_edges": [
-                18,
-                3
+                11
             ],
             "edge_label": 25,
-            "start_after_edge": 2,
+            "start_after_edge": 24,
             "u": 3,
             "v": 5
         },
         {
             "crossed_edges": [
-                18,
+                11,
                 19,
-                1,
-                0,
-                8,
-                7,
-                6
+                4
             ],
             "edge_label": 26,
-            "start_after_edge": 17,
+            "start_after_edge": 24,
             "u": 3,
             "v": 6
         },
@@ -456,20 +452,18 @@
                 13
             ],
             "edge_label": 27,
-            "start_after_edge": 24,
+            "start_after_edge": 25,
             "u": 3,
             "v": 7
         },
         {
             "crossed_edges": [
-                11,
-                12,
-                13,
-                14,
-                21
+                9,
+                0,
+                16
             ],
             "edge_label": 28,
-            "start_after_edge": 27,
+            "start_after_edge": 10,
             "u": 3,
             "v": 8
         },
@@ -479,12 +473,14 @@
                 0
             ],
             "edge_label": 29,
-            "start_after_edge": 10,
+            "start_after_edge": 28,
             "u": 3,
             "v": 9
         },
         {
-            "crossed_edges": [],
+            "crossed_edges": [
+                26
+            ],
             "edge_label": 30,
             "start_after_edge": 3,
             "u": 4,
@@ -492,7 +488,6 @@
         },
         {
             "crossed_edges": [
-                25,
                 19,
                 4
             ],
@@ -503,6 +498,8 @@
         },
         {
             "crossed_edges": [
+                26,
+                25,
                 12,
                 13
             ],
@@ -513,34 +510,33 @@
         },
         {
             "crossed_edges": [
+                26,
                 25,
-                19,
-                4,
-                13,
-                6
+                27,
+                10,
+                9,
+                0,
+                16
             ],
             "edge_label": 33,
-            "start_after_edge": 31,
+            "start_after_edge": 11,
             "u": 4,
             "v": 8
         },
         {
             "crossed_edges": [
-                27,
-                28,
-                10,
+                2,
+                17,
                 9,
                 0
             ],
             "edge_label": 34,
-            "start_after_edge": 11,
+            "start_after_edge": 24,
             "u": 4,
             "v": 9
         },
         {
-            "crossed_edges": [
-                33
-            ],
+            "crossed_edges": [],
             "edge_label": 35,
             "start_after_edge": 4,
             "u": 5,
@@ -557,84 +553,87 @@
         },
         {
             "crossed_edges": [
-                13,
-                6
+                26,
+                31,
+                20,
+                5,
+                6,
+                21
             ],
             "edge_label": 37,
-            "start_after_edge": 35,
+            "start_after_edge": 4,
             "u": 5,
             "v": 8
         },
         {
             "crossed_edges": [
+                13,
+                6,
+                21,
+                15,
                 33,
-                31,
-                3,
-                18,
-                24,
-                27,
-                28,
-                10,
-                9,
-                0
+                28
             ],
             "edge_label": 38,
-            "start_after_edge": 30,
+            "start_after_edge": 35,
             "u": 5,
             "v": 9
         },
         {
             "crossed_edges": [
-                33,
-                37
+                38
             ],
             "edge_label": 39,
-            "start_after_edge": 20,
+            "start_after_edge": 5,
             "u": 6,
             "v": 7
         },
         {
             "crossed_edges": [
-                6
+                6,
+                21
             ],
             "edge_label": 40,
-            "start_after_edge": 20,
+            "start_after_edge": 5,
             "u": 6,
             "v": 8
         },
         {
             "crossed_edges": [
                 6,
-                7,
-                22,
-                21
+                21,
+                15,
+                33,
+                28
             ],
             "edge_label": 41,
-            "start_after_edge": 20,
+            "start_after_edge": 40,
             "u": 6,
             "v": 9
         },
         {
-            "crossed_edges": [],
+            "crossed_edges": [
+                38,
+                41
+            ],
             "edge_label": 42,
-            "start_after_edge": 6,
+            "start_after_edge": 21,
             "u": 7,
             "v": 8
         },
         {
             "crossed_edges": [
-                28,
-                15
+                15,
+                33,
+                28
             ],
             "edge_label": 43,
-            "start_after_edge": 21,
+            "start_after_edge": 42,
             "u": 7,
             "v": 9
         },
         {
-            "crossed_edges": [
-                21
-            ],
+            "crossed_edges": [],
             "edge_label": 44,
             "start_after_edge": 22,
             "u": 8,
@@ -642,154 +641,134 @@
         },
         {
             "crossed_edges": [
-                19,
-                18
+                20,
+                19
             ],
             "edge_label": 45,
-            "start_after_edge": 3,
+            "start_after_edge": 2,
             "u": 0,
             "v": 10
         },
         {
             "crossed_edges": [
-                34,
-                38,
+                33,
+                28,
                 29,
-                17,
-                26,
-                2
+                34,
+                23,
+                22,
+                21,
+                1,
+                20,
+                19
             ],
             "edge_label": 46,
-            "start_after_edge": 9,
+            "start_after_edge": 0,
             "u": 1,
             "v": 10
         },
         {
-            "crossed_edges": [
-                26,
-                2
-            ],
+            "crossed_edges": [],
             "edge_label": 47,
-            "start_after_edge": 18,
+            "start_after_edge": 19,
             "u": 2,
             "v": 10
         },
         {
-            "crossed_edges": [],
+            "crossed_edges": [
+                34,
+                18
+            ],
             "edge_label": 48,
-            "start_after_edge": 2,
+            "start_after_edge": 17,
             "u": 3,
             "v": 10
         },
         {
             "crossed_edges": [
-                38,
-                25
+                2
             ],
             "edge_label": 49,
-            "start_after_edge": 24,
+            "start_after_edge": 18,
             "u": 4,
             "v": 10
+        },
+        {
+            "crossed_edges": [
+                26,
+                31,
+                3,
+                2
+            ],
+            "edge_label": 50,
+            "start_after_edge": 30,
+            "u": 5,
+            "v": 10
+        },
+        {
+            "crossed_edges": [
+                20,
+                19,
+                50,
+                49,
+                48
+            ],
+            "edge_label": 51,
+            "start_after_edge": 2,
+            "u": 0,
+            "v": 11
         },
         {
             "crossed_edges": [
                 33,
-                31,
-                3,
-                18
+                28,
+                29,
+                34,
+                23,
+                22,
+                21,
+                1,
+                20,
+                19,
+                47
             ],
-            "edge_label": 50,
-            "start_after_edge": 25,
-            "u": 5,
-            "v": 10
+            "edge_label": 52,
+            "start_after_edge": 46,
+            "u": 1,
+            "v": 11
         },
         {
             "crossed_edges": [],
-            "edge_label": 51,
-            "start_after_edge": 31,
+            "edge_label": 53,
+            "start_after_edge": 47,
+            "u": 2,
+            "v": 11
+        },
+        {
+            "crossed_edges": [
+                34,
+                18
+            ],
+            "edge_label": 54,
+            "start_after_edge": 17,
+            "u": 3,
+            "v": 11
+        },
+        {
+            "crossed_edges": [
+                2,
+                48
+            ],
+            "edge_label": 55,
+            "start_after_edge": 18,
             "u": 4,
             "v": 11
         },
         {
-            "crossed_edges": [
-                32,
-                11,
-                34,
-                24,
-                49,
-                18,
-                3,
-                31
-            ],
-            "edge_label": 52,
-            "start_after_edge": 12,
-            "u": 5,
-            "v": 11
-        },
-        {
-            "crossed_edges": [
-                4,
-                19,
-                50,
-                25,
-                38
-            ],
-            "edge_label": 53,
-            "start_after_edge": 35,
-            "u": 6,
-            "v": 11
-        },
-        {
-            "crossed_edges": [
-                13,
-                12,
-                11,
-                34,
-                24,
-                49,
-                18,
-                3,
-                31
-            ],
-            "edge_label": 54,
-            "start_after_edge": 27,
-            "u": 7,
-            "v": 11
-        },
-        {
-            "crossed_edges": [
-                6,
-                39,
-                13,
-                35,
-                4,
-                19,
-                50,
-                25,
-                38
-            ],
-            "edge_label": 55,
-            "start_after_edge": 33,
-            "u": 8,
-            "v": 11
-        },
-        {
-            "crossed_edges": [
-                0,
-                9,
-                46,
-                10,
-                28,
-                27,
-                24,
-                49,
-                18,
-                3,
-                31
-            ],
+            "crossed_edges": [],
             "edge_label": 56,
-            "start_after_edge": 38,
-            "u": 9,
+            "start_after_edge": 48,
+            "u": 10,
             "v": 11
         }
     ]
