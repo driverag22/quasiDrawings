@@ -1,6 +1,8 @@
 {
     "kplane": 17,
     "num_vertices": 12,
+    "num_edges": 57,
+    "num_crossings": 100,
     "abstract_graph": [
         [
             0,
@@ -207,27 +209,27 @@
             10
         ],
         [
+            0,
+            11
+        ],
+        [
+            1,
+            11
+        ],
+        [
+            2,
+            11
+        ],
+        [
+            3,
+            11
+        ],
+        [
             4,
             11
         ],
         [
-            5,
-            11
-        ],
-        [
-            6,
-            11
-        ],
-        [
-            7,
-            11
-        ],
-        [
-            8,
-            11
-        ],
-        [
-            9,
+            10,
             11
         ]
     ],
@@ -705,66 +707,64 @@
         },
         {
             "crossed_edges": [
-                14,
-                12,
-                13,
+                34,
+                29,
+                17,
                 26,
-                20,
-                41,
-                38
+                10
             ],
             "edge_label": 51,
-            "start_after_edge": 31,
+            "start_after_edge": 45,
+            "u": 0,
+            "v": 11
+        },
+        {
+            "crossed_edges": [
+                18,
+                19,
+                47
+            ],
+            "edge_label": 52,
+            "start_after_edge": 10,
+            "u": 1,
+            "v": 11
+        },
+        {
+            "crossed_edges": [
+                26,
+                10
+            ],
+            "edge_label": 53,
+            "start_after_edge": 17,
+            "u": 2,
+            "v": 11
+        },
+        {
+            "crossed_edges": [
+                45
+            ],
+            "edge_label": 54,
+            "start_after_edge": 48,
+            "u": 3,
+            "v": 11
+        },
+        {
+            "crossed_edges": [
+                19,
+                50,
+                48,
+                45
+            ],
+            "edge_label": 55,
+            "start_after_edge": 49,
             "u": 4,
             "v": 11
         },
         {
-            "crossed_edges": [
-                5,
-                39,
-                40
-            ],
-            "edge_label": 52,
-            "start_after_edge": 37,
-            "u": 5,
-            "v": 11
-        },
-        {
-            "crossed_edges": [
-                38
-            ],
-            "edge_label": 53,
-            "start_after_edge": 40,
-            "u": 6,
-            "v": 11
-        },
-        {
-            "crossed_edges": [
-                37,
-                40
-            ],
-            "edge_label": 54,
-            "start_after_edge": 42,
-            "u": 7,
-            "v": 11
-        },
-        {
             "crossed_edges": [],
-            "edge_label": 55,
-            "start_after_edge": 33,
-            "u": 8,
-            "v": 11
-        },
-        {
-            "crossed_edges": [
-                21,
-                22,
-                15,
-                33
-            ],
             "edge_label": 56,
-            "start_after_edge": 38,
-            "u": 9,
+            "start_after_edge": 47,
+            "u": 10,
             "v": 11
         }
     ]

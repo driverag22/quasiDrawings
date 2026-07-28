@@ -1,6 +1,8 @@
 {
     "kplane": 17,
     "num_vertices": 12,
+    "num_edges": 57,
+    "num_crossings": 102,
     "abstract_graph": [
         [
             0,
@@ -711,7 +713,7 @@
                 26,
                 20,
                 41,
-                40
+                38
             ],
             "edge_label": 51,
             "start_after_edge": 31,
@@ -720,29 +722,28 @@
         },
         {
             "crossed_edges": [
-                31,
-                13,
-                26,
-                20,
-                41,
+                5,
+                39,
                 40
             ],
             "edge_label": 52,
-            "start_after_edge": 35,
+            "start_after_edge": 37,
             "u": 5,
             "v": 11
         },
         {
-            "crossed_edges": [],
+            "crossed_edges": [
+                38
+            ],
             "edge_label": 53,
-            "start_after_edge": 39,
+            "start_after_edge": 40,
             "u": 6,
             "v": 11
         },
         {
             "crossed_edges": [
                 37,
-                38
+                40
             ],
             "edge_label": 54,
             "start_after_edge": 42,
@@ -750,11 +751,9 @@
             "v": 11
         },
         {
-            "crossed_edges": [
-                38
-            ],
+            "crossed_edges": [],
             "edge_label": 55,
-            "start_after_edge": 40,
+            "start_after_edge": 33,
             "u": 8,
             "v": 11
         },
@@ -763,11 +762,10 @@
                 21,
                 22,
                 15,
-                33,
-                40
+                33
             ],
             "edge_label": 56,
-            "start_after_edge": 41,
+            "start_after_edge": 38,
             "u": 9,
             "v": 11
         }
