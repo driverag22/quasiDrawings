@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:y="http://www.yworks.com/xml/graphml"
+    xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key for="node" id="d5" yfiles.type="nodegraphics"/>
+  <key for="edge" id="d9" yfiles.type="edgegraphics"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="v0">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>0</y:NodeLabel>
+          <y:Geometry height="30.0" width="30.0"/>
+          <y:Fill color="#99CCFF"/>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="v1">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>1</y:NodeLabel>
+          <y:Geometry height="30.0" width="30.0"/>
+          <y:Fill color="#99CCFF"/>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="v2">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>2</y:NodeLabel>
+          <y:Geometry height="30.0" width="30.0"/>
+          <y:Fill color="#99CCFF"/>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="v3">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>3</y:NodeLabel>
+          <y:Geometry height="30.0" width="30.0"/>
+          <y:Fill color="#99CCFF"/>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="v4">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>4</y:NodeLabel>
+          <y:Geometry height="30.0" width="30.0"/>
+          <y:Fill color="#99CCFF"/>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="v5">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>5</y:NodeLabel>
+          <y:Geometry height="30.0" width="30.0"/>
+          <y:Fill color="#99CCFF"/>
+          <y:Shape type="ellipse"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="c0">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>0</y:NodeLabel>
+          <y:Geometry height="15.0" width="15.0"/>
+          <y:Fill color="#C0C0C0"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="c1">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>1</y:NodeLabel>
+          <y:Geometry height="15.0" width="15.0"/>
+          <y:Fill color="#C0C0C0"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="c2">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>2</y:NodeLabel>
+          <y:Geometry height="15.0" width="15.0"/>
+          <y:Fill color="#C0C0C0"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="c3">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>3</y:NodeLabel>
+          <y:Geometry height="15.0" width="15.0"/>
+          <y:Fill color="#C0C0C0"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <node id="c4">
+      <data key="d5">
+        <y:ShapeNode>
+          <y:NodeLabel>4</y:NodeLabel>
+          <y:Geometry height="15.0" width="15.0"/>
+          <y:Fill color="#C0C0C0"/>
+          <y:Shape type="rectangle"/>
+        </y:ShapeNode>
+      </data>
+    </node>
+    <edge id="e0" source="v0" target="c4">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e1" source="v2" target="v0">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e2" source="v3" target="c0">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e3" source="v4" target="c2">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e4" source="v5" target="v0">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e5" source="v2" target="c3">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e6" source="v3" target="v1">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e7" source="v4" target="v1">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e8" source="v5" target="v1">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e9" source="v3" target="v2">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e10" source="c0" target="v2">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e11" source="c1" target="c0">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e12" source="v4" target="c0">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e13" source="c1" target="v2">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e14" source="v0" target="c1">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e15" source="c2" target="c1">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e16" source="v0" target="c2">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e17" source="v5" target="c2">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e18" source="v4" target="v3">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e19" source="c3" target="v3">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e20" source="v1" target="c3">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e21" source="c4" target="c3">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e22" source="v1" target="c4">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFCC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e23" source="v5" target="c4">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#FFA500" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+    <edge id="e24" source="v5" target="v4">
+      <data key="d9">
+        <y:PolyLineEdge>
+          <y:LineStyle color="#00CC00" type="line" width="1.5"/>
+          <y:BendStyle smoothed="true"/>
+        </y:PolyLineEdge>
+      </data>
+    </edge>
+  </graph>
+</graphml>
