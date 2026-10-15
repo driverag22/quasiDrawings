@@ -1,15 +1,17 @@
 # Nested C12 drawings (3-planar, klim = 3)
 
-Computed 2026-10-05 on the Euler cluster with `iterative_nested_c12_split.cpp` / `split_driver.h` / `iterative_nested_split.cpp`. 
 Family: nested 12-cycles connected by the braided matching of `iterative_nested_c12.cpp`; 
 the first (and last) cycle is uncrossable (base drawing: the cycle plus an uncrossable star blocking one side).
 
 ## Files
 | file | drawings | content |
 |---|---|---|
-| `intermediate_level1.jsonl.gz` | 16611 | Pass 1 on the base drawing: all reduced drawings after adding one crossable cycle (distinct up to gadget-aware isomorphism) |
-| `final_2cycles.jsonl.gz` | 1 | Pass 2 on the base drawing: base cycle + one new uncrossed cycle (also as `final_2cycles_0.json` / `.graphml`) |
-| `final_3cycles.jsonl.gz` | 3231 | Pass 2 on every intermediate drawing: base cycle, crossable middle cycle, uncrossed last cycle (distinct up to strong isomorphism) |
+| `intermediate_level1.jsonl.gz` | 16611 | $G_{12,2}^{-}$: all reduced drawings after adding one crossable cycle (distinct up to gadget-aware isomorphism) |
+| `final_2cycles.jsonl.gz` | 1 | $G_{12,2}$: base cycle + one new uncrossed cycle (also as `final_2cycles_0.json` / `.graphml`) |
+| `final_3cycles.jsonl.gz` | 3231 | $G_{12,3}$: base cycle, crossable middle cycle, uncrossed last cycle (distinct up to strong isomorphism) |
+| `17parent_final_4cycles.jsonl.gz` | 93318 | $G_{12,4}$ (from 17 randomly chosen drawings of $G_{12,2}^{-}$): base cycle, two crossable middle cycles, uncrossed last cycle (distinct up to strong isomorphism) |
+
+Furthermore, some example `graphml` files of $G_{12,3}$ can be found in directory `example_3_cycles`.
 
 ## Numbers
 - Pass 1: 876629 prefixes at split depth 12, 100 Slurm array tasks (at most 38 at a time), wall clock 14 min (task times 3-6 min);

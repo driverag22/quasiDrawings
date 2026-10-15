@@ -7,9 +7,11 @@ the first (and last) cycle is uncrossable (base drawing: the cycle plus an uncro
 ## Files
 | file | drawings | content |
 |---|---|---|
-| `intermediate_level1.jsonl.gz` | 44682 | Pass 1 on the base drawing: all reduced drawings after adding one crossable cycle (distinct up to gadget-aware isomorphism) |
-| `final_2cycles.jsonl.gz` | 1 | Pass 2 on the base drawing: base cycle + one new uncrossed cycle (also as `final_2cycles_0.json` / `.graphml`) |
-| `final_3cycles.jsonl.gz` | 15445 | Pass 2 on every intermediate drawing: base cycle, crossable middle cycle, uncrossed last cycle (distinct up to strong isomorphism) |
+| `intermediate_level1.jsonl.gz` | 44682 | $G_{14,2}^{-}$: all reduced drawings after adding one crossable cycle (distinct up to gadget-aware isomorphism) |
+| `final_2cycles.jsonl.gz` | 1 | $G_{14,2}$: base cycle + one new uncrossed cycle (also as `final_2cycles_0.json` / `.graphml`) |
+| `final_3cycles.jsonl.gz` | 15445 | $G_{14,3}$: base cycle, crossable middle cycle, uncrossed last cycle (distinct up to strong isomorphism) |
+
+Furthermore, some example `graphml` files of $G_{14,3}$ can be found in directory `example_3_cycles`.
 
 ## Numbers
 - Pass 1: 877520 prefixes at split depth 12, 100 Slurm array tasks (at most 38 at a time), wall clock 58 min (task times 12-28 min);
