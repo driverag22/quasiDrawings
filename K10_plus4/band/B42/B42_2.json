@@ -1,0 +1,7294 @@
+{
+    "kplane": 77,
+    "num_vertices": 42,
+    "num_edges": 238,
+    "num_crossings": 762,
+    "abstract_graph": [
+        [
+            0,
+            4
+        ],
+        [
+            4,
+            6
+        ],
+        [
+            1,
+            4
+        ],
+        [
+            3,
+            4
+        ],
+        [
+            4,
+            5
+        ],
+        [
+            2,
+            4
+        ],
+        [
+            4,
+            9
+        ],
+        [
+            4,
+            8
+        ],
+        [
+            4,
+            7
+        ],
+        [
+            0,
+            6
+        ],
+        [
+            0,
+            1
+        ],
+        [
+            0,
+            3
+        ],
+        [
+            0,
+            5
+        ],
+        [
+            0,
+            2
+        ],
+        [
+            0,
+            9
+        ],
+        [
+            0,
+            8
+        ],
+        [
+            0,
+            7
+        ],
+        [
+            1,
+            6
+        ],
+        [
+            3,
+            6
+        ],
+        [
+            5,
+            6
+        ],
+        [
+            2,
+            6
+        ],
+        [
+            6,
+            9
+        ],
+        [
+            6,
+            8
+        ],
+        [
+            6,
+            7
+        ],
+        [
+            1,
+            3
+        ],
+        [
+            1,
+            5
+        ],
+        [
+            1,
+            2
+        ],
+        [
+            1,
+            9
+        ],
+        [
+            1,
+            8
+        ],
+        [
+            1,
+            7
+        ],
+        [
+            3,
+            5
+        ],
+        [
+            2,
+            3
+        ],
+        [
+            3,
+            9
+        ],
+        [
+            3,
+            8
+        ],
+        [
+            3,
+            7
+        ],
+        [
+            2,
+            5
+        ],
+        [
+            5,
+            9
+        ],
+        [
+            5,
+            8
+        ],
+        [
+            5,
+            7
+        ],
+        [
+            2,
+            9
+        ],
+        [
+            2,
+            8
+        ],
+        [
+            2,
+            7
+        ],
+        [
+            8,
+            9
+        ],
+        [
+            7,
+            9
+        ],
+        [
+            7,
+            8
+        ],
+        [
+            4,
+            10
+        ],
+        [
+            0,
+            10
+        ],
+        [
+            6,
+            10
+        ],
+        [
+            3,
+            10
+        ],
+        [
+            5,
+            10
+        ],
+        [
+            2,
+            10
+        ],
+        [
+            1,
+            12
+        ],
+        [
+            8,
+            12
+        ],
+        [
+            7,
+            12
+        ],
+        [
+            4,
+            12
+        ],
+        [
+            3,
+            12
+        ],
+        [
+            2,
+            12
+        ],
+        [
+            1,
+            11
+        ],
+        [
+            8,
+            11
+        ],
+        [
+            7,
+            11
+        ],
+        [
+            4,
+            11
+        ],
+        [
+            3,
+            11
+        ],
+        [
+            9,
+            11
+        ],
+        [
+            10,
+            11
+        ],
+        [
+            0,
+            13
+        ],
+        [
+            6,
+            13
+        ],
+        [
+            5,
+            13
+        ],
+        [
+            2,
+            13
+        ],
+        [
+            3,
+            13
+        ],
+        [
+            9,
+            13
+        ],
+        [
+            0,
+            14
+        ],
+        [
+            1,
+            14
+        ],
+        [
+            4,
+            14
+        ],
+        [
+            5,
+            14
+        ],
+        [
+            6,
+            14
+        ],
+        [
+            11,
+            14
+        ],
+        [
+            0,
+            15
+        ],
+        [
+            4,
+            15
+        ],
+        [
+            7,
+            15
+        ],
+        [
+            10,
+            15
+        ],
+        [
+            11,
+            15
+        ],
+        [
+            14,
+            15
+        ],
+        [
+            4,
+            16
+        ],
+        [
+            8,
+            16
+        ],
+        [
+            11,
+            16
+        ],
+        [
+            12,
+            16
+        ],
+        [
+            14,
+            16
+        ],
+        [
+            15,
+            16
+        ],
+        [
+            4,
+            17
+        ],
+        [
+            10,
+            17
+        ],
+        [
+            12,
+            17
+        ],
+        [
+            14,
+            17
+        ],
+        [
+            15,
+            17
+        ],
+        [
+            16,
+            17
+        ],
+        [
+            10,
+            18
+        ],
+        [
+            11,
+            18
+        ],
+        [
+            12,
+            18
+        ],
+        [
+            15,
+            18
+        ],
+        [
+            16,
+            18
+        ],
+        [
+            17,
+            18
+        ],
+        [
+            11,
+            19
+        ],
+        [
+            12,
+            19
+        ],
+        [
+            14,
+            19
+        ],
+        [
+            16,
+            19
+        ],
+        [
+            17,
+            19
+        ],
+        [
+            18,
+            19
+        ],
+        [
+            12,
+            20
+        ],
+        [
+            14,
+            20
+        ],
+        [
+            15,
+            20
+        ],
+        [
+            16,
+            20
+        ],
+        [
+            18,
+            20
+        ],
+        [
+            19,
+            20
+        ],
+        [
+            14,
+            21
+        ],
+        [
+            15,
+            21
+        ],
+        [
+            17,
+            21
+        ],
+        [
+            18,
+            21
+        ],
+        [
+            19,
+            21
+        ],
+        [
+            20,
+            21
+        ],
+        [
+            15,
+            22
+        ],
+        [
+            16,
+            22
+        ],
+        [
+            17,
+            22
+        ],
+        [
+            19,
+            22
+        ],
+        [
+            20,
+            22
+        ],
+        [
+            21,
+            22
+        ],
+        [
+            16,
+            23
+        ],
+        [
+            17,
+            23
+        ],
+        [
+            18,
+            23
+        ],
+        [
+            20,
+            23
+        ],
+        [
+            21,
+            23
+        ],
+        [
+            22,
+            23
+        ],
+        [
+            16,
+            24
+        ],
+        [
+            18,
+            24
+        ],
+        [
+            19,
+            24
+        ],
+        [
+            21,
+            24
+        ],
+        [
+            22,
+            24
+        ],
+        [
+            23,
+            24
+        ],
+        [
+            18,
+            25
+        ],
+        [
+            19,
+            25
+        ],
+        [
+            20,
+            25
+        ],
+        [
+            22,
+            25
+        ],
+        [
+            23,
+            25
+        ],
+        [
+            24,
+            25
+        ],
+        [
+            19,
+            26
+        ],
+        [
+            20,
+            26
+        ],
+        [
+            21,
+            26
+        ],
+        [
+            22,
+            26
+        ],
+        [
+            24,
+            26
+        ],
+        [
+            25,
+            26
+        ],
+        [
+            20,
+            27
+        ],
+        [
+            21,
+            27
+        ],
+        [
+            23,
+            27
+        ],
+        [
+            24,
+            27
+        ],
+        [
+            25,
+            27
+        ],
+        [
+            26,
+            27
+        ],
+        [
+            21,
+            28
+        ],
+        [
+            22,
+            28
+        ],
+        [
+            23,
+            28
+        ],
+        [
+            25,
+            28
+        ],
+        [
+            26,
+            28
+        ],
+        [
+            27,
+            28
+        ],
+        [
+            22,
+            29
+        ],
+        [
+            24,
+            29
+        ],
+        [
+            25,
+            29
+        ],
+        [
+            26,
+            29
+        ],
+        [
+            27,
+            29
+        ],
+        [
+            28,
+            29
+        ],
+        [
+            23,
+            30
+        ],
+        [
+            24,
+            30
+        ],
+        [
+            25,
+            30
+        ],
+        [
+            27,
+            30
+        ],
+        [
+            28,
+            30
+        ],
+        [
+            29,
+            30
+        ],
+        [
+            23,
+            31
+        ],
+        [
+            26,
+            31
+        ],
+        [
+            27,
+            31
+        ],
+        [
+            28,
+            31
+        ],
+        [
+            29,
+            31
+        ],
+        [
+            30,
+            31
+        ],
+        [
+            25,
+            32
+        ],
+        [
+            26,
+            32
+        ],
+        [
+            28,
+            32
+        ],
+        [
+            29,
+            32
+        ],
+        [
+            30,
+            32
+        ],
+        [
+            31,
+            32
+        ],
+        [
+            25,
+            33
+        ],
+        [
+            27,
+            33
+        ],
+        [
+            29,
+            33
+        ],
+        [
+            30,
+            33
+        ],
+        [
+            31,
+            33
+        ],
+        [
+            32,
+            33
+        ],
+        [
+            27,
+            34
+        ],
+        [
+            28,
+            34
+        ],
+        [
+            30,
+            34
+        ],
+        [
+            31,
+            34
+        ],
+        [
+            32,
+            34
+        ],
+        [
+            33,
+            34
+        ],
+        [
+            28,
+            35
+        ],
+        [
+            29,
+            35
+        ],
+        [
+            31,
+            35
+        ],
+        [
+            32,
+            35
+        ],
+        [
+            33,
+            35
+        ],
+        [
+            34,
+            35
+        ],
+        [
+            29,
+            36
+        ],
+        [
+            30,
+            36
+        ],
+        [
+            32,
+            36
+        ],
+        [
+            33,
+            36
+        ],
+        [
+            34,
+            36
+        ],
+        [
+            35,
+            36
+        ],
+        [
+            30,
+            37
+        ],
+        [
+            31,
+            37
+        ],
+        [
+            33,
+            37
+        ],
+        [
+            34,
+            37
+        ],
+        [
+            35,
+            37
+        ],
+        [
+            36,
+            37
+        ],
+        [
+            31,
+            38
+        ],
+        [
+            32,
+            38
+        ],
+        [
+            34,
+            38
+        ],
+        [
+            35,
+            38
+        ],
+        [
+            36,
+            38
+        ],
+        [
+            37,
+            38
+        ],
+        [
+            32,
+            39
+        ],
+        [
+            33,
+            39
+        ],
+        [
+            35,
+            39
+        ],
+        [
+            36,
+            39
+        ],
+        [
+            37,
+            39
+        ],
+        [
+            38,
+            39
+        ],
+        [
+            33,
+            40
+        ],
+        [
+            34,
+            40
+        ],
+        [
+            36,
+            40
+        ],
+        [
+            37,
+            40
+        ],
+        [
+            38,
+            40
+        ],
+        [
+            39,
+            40
+        ],
+        [
+            34,
+            41
+        ],
+        [
+            35,
+            41
+        ],
+        [
+            37,
+            41
+        ],
+        [
+            38,
+            41
+        ],
+        [
+            39,
+            41
+        ],
+        [
+            40,
+            41
+        ]
+    ],
+    "drawing_recipe": [
+        {
+            "edge_label": 0,
+            "u": 4,
+            "v": 0
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 1,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 6
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 2,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 1
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 3,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 3
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 4,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 5
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 5,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 2
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 6,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 9
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 7,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 8
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 8,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 7
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 9,
+            "end_after_edge": 1,
+            "start_after_edge": 0,
+            "u": 0,
+            "v": 6
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 10,
+            "end_after_edge": 2,
+            "start_after_edge": 9,
+            "u": 0,
+            "v": 1
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 11,
+            "end_after_edge": 3,
+            "start_after_edge": 10,
+            "u": 0,
+            "v": 3
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 12,
+            "end_after_edge": 4,
+            "start_after_edge": 11,
+            "u": 0,
+            "v": 5
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 13,
+            "end_after_edge": 5,
+            "start_after_edge": 12,
+            "u": 0,
+            "v": 2
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 14,
+            "end_after_edge": 6,
+            "start_after_edge": 13,
+            "u": 0,
+            "v": 9
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 15,
+            "end_after_edge": 7,
+            "start_after_edge": 14,
+            "u": 0,
+            "v": 8
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 16,
+            "end_after_edge": 8,
+            "start_after_edge": 15,
+            "u": 0,
+            "v": 7
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 17,
+            "end_after_edge": 10,
+            "start_after_edge": 1,
+            "u": 6,
+            "v": 1
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                2
+            ],
+            "edge_label": 18,
+            "end_after_edge": 11,
+            "start_after_edge": 1,
+            "u": 6,
+            "v": 3
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                2,
+                11
+            ],
+            "edge_label": 19,
+            "end_after_edge": 12,
+            "start_after_edge": 18,
+            "u": 6,
+            "v": 5
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                2,
+                11,
+                4
+            ],
+            "edge_label": 20,
+            "end_after_edge": 13,
+            "start_after_edge": 18,
+            "u": 6,
+            "v": 2
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                0,
+                16,
+                15
+            ],
+            "edge_label": 21,
+            "end_after_edge": 6,
+            "start_after_edge": 9,
+            "u": 6,
+            "v": 9
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                0,
+                16
+            ],
+            "edge_label": 22,
+            "end_after_edge": 7,
+            "start_after_edge": 21,
+            "u": 6,
+            "v": 8
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                0
+            ],
+            "edge_label": 23,
+            "end_after_edge": 8,
+            "start_after_edge": 22,
+            "u": 6,
+            "v": 7
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                20
+            ],
+            "edge_label": 24,
+            "end_after_edge": 11,
+            "start_after_edge": 2,
+            "u": 1,
+            "v": 3
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                11
+            ],
+            "edge_label": 25,
+            "end_after_edge": 12,
+            "start_after_edge": 24,
+            "u": 1,
+            "v": 5
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                11,
+                12
+            ],
+            "edge_label": 26,
+            "end_after_edge": 13,
+            "start_after_edge": 25,
+            "u": 1,
+            "v": 2
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                9,
+                0,
+                16,
+                15
+            ],
+            "edge_label": 27,
+            "end_after_edge": 21,
+            "start_after_edge": 10,
+            "u": 1,
+            "v": 9
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                20,
+                18,
+                1,
+                0,
+                8
+            ],
+            "edge_label": 28,
+            "end_after_edge": 7,
+            "start_after_edge": 17,
+            "u": 1,
+            "v": 8
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                20,
+                18,
+                1,
+                0
+            ],
+            "edge_label": 29,
+            "end_after_edge": 8,
+            "start_after_edge": 17,
+            "u": 1,
+            "v": 7
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                20
+            ],
+            "edge_label": 30,
+            "end_after_edge": 19,
+            "start_after_edge": 3,
+            "u": 3,
+            "v": 5
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                4
+            ],
+            "edge_label": 31,
+            "end_after_edge": 20,
+            "start_after_edge": 3,
+            "u": 3,
+            "v": 2
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                20,
+                19,
+                25,
+                26,
+                10,
+                9,
+                0,
+                16,
+                15
+            ],
+            "edge_label": 32,
+            "end_after_edge": 27,
+            "start_after_edge": 11,
+            "u": 3,
+            "v": 9
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                4,
+                5,
+                6
+            ],
+            "edge_label": 33,
+            "end_after_edge": 15,
+            "start_after_edge": 3,
+            "u": 3,
+            "v": 8
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                4,
+                5,
+                6,
+                7,
+                28
+            ],
+            "edge_label": 34,
+            "end_after_edge": 16,
+            "start_after_edge": 3,
+            "u": 3,
+            "v": 7
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 35,
+            "end_after_edge": 26,
+            "start_after_edge": 4,
+            "u": 5,
+            "v": 2
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                26,
+                13
+            ],
+            "edge_label": 36,
+            "end_after_edge": 14,
+            "start_after_edge": 35,
+            "u": 5,
+            "v": 9
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                20,
+                31,
+                5,
+                6
+            ],
+            "edge_label": 37,
+            "end_after_edge": 15,
+            "start_after_edge": 4,
+            "u": 5,
+            "v": 8
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                26,
+                13,
+                6,
+                15,
+                22
+            ],
+            "edge_label": 38,
+            "end_after_edge": 16,
+            "start_after_edge": 35,
+            "u": 5,
+            "v": 7
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                38
+            ],
+            "edge_label": 39,
+            "end_after_edge": 36,
+            "start_after_edge": 5,
+            "u": 2,
+            "v": 9
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                6
+            ],
+            "edge_label": 40,
+            "end_after_edge": 15,
+            "start_after_edge": 5,
+            "u": 2,
+            "v": 8
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                6,
+                15,
+                22
+            ],
+            "edge_label": 41,
+            "end_after_edge": 38,
+            "start_after_edge": 40,
+            "u": 2,
+            "v": 7
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                38,
+                41
+            ],
+            "edge_label": 42,
+            "end_after_edge": 15,
+            "start_after_edge": 6,
+            "u": 9,
+            "v": 8
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                15,
+                22
+            ],
+            "edge_label": 43,
+            "end_after_edge": 16,
+            "start_after_edge": 42,
+            "u": 9,
+            "v": 7
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 44,
+            "end_after_edge": 41,
+            "start_after_edge": 28,
+            "u": 8,
+            "v": 7
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                18,
+                24,
+                32,
+                11
+            ],
+            "edge_label": 45,
+            "start_after_edge": 3,
+            "u": 4,
+            "v": 10
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                26,
+                25,
+                19,
+                20
+            ],
+            "edge_label": 46,
+            "end_after_edge": 45,
+            "start_after_edge": 11,
+            "u": 0,
+            "v": 10
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                29,
+                28,
+                2,
+                24,
+                32,
+                11
+            ],
+            "edge_label": 47,
+            "end_after_edge": 46,
+            "start_after_edge": 18,
+            "u": 6,
+            "v": 10
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 48,
+            "end_after_edge": 45,
+            "start_after_edge": 30,
+            "u": 3,
+            "v": 10
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                20
+            ],
+            "edge_label": 49,
+            "end_after_edge": 48,
+            "start_after_edge": 19,
+            "u": 5,
+            "v": 10
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                37,
+                4,
+                30
+            ],
+            "edge_label": 50,
+            "end_after_edge": 48,
+            "start_after_edge": 20,
+            "u": 2,
+            "v": 10
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                20,
+                47,
+                18,
+                1,
+                0,
+                8,
+                34
+            ],
+            "edge_label": 51,
+            "start_after_edge": 28,
+            "u": 1,
+            "v": 12
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 52,
+            "end_after_edge": 51,
+            "start_after_edge": 7,
+            "u": 8,
+            "v": 12
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                28
+            ],
+            "edge_label": 53,
+            "end_after_edge": 51,
+            "start_after_edge": 44,
+            "u": 7,
+            "v": 12
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                34
+            ],
+            "edge_label": 54,
+            "end_after_edge": 52,
+            "start_after_edge": 8,
+            "u": 4,
+            "v": 12
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                4,
+                5,
+                6,
+                7
+            ],
+            "edge_label": 55,
+            "end_after_edge": 52,
+            "start_after_edge": 34,
+            "u": 3,
+            "v": 12
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    9,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                6,
+                42,
+                15,
+                22,
+                44,
+                28
+            ],
+            "edge_label": 56,
+            "end_after_edge": 53,
+            "start_after_edge": 40,
+            "u": 2,
+            "v": 12
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                20,
+                47,
+                18,
+                1,
+                0,
+                8,
+                54,
+                7
+            ],
+            "edge_label": 57,
+            "start_after_edge": 51,
+            "u": 1,
+            "v": 11
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                55,
+                34
+            ],
+            "edge_label": 58,
+            "end_after_edge": 57,
+            "start_after_edge": 33,
+            "u": 8,
+            "v": 11
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                28,
+                51,
+                54,
+                7
+            ],
+            "edge_label": 59,
+            "end_after_edge": 57,
+            "start_after_edge": 34,
+            "u": 7,
+            "v": 11
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 60,
+            "end_after_edge": 58,
+            "start_after_edge": 7,
+            "u": 4,
+            "v": 11
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                4,
+                5,
+                6
+            ],
+            "edge_label": 61,
+            "end_after_edge": 58,
+            "start_after_edge": 3,
+            "u": 3,
+            "v": 11
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                38,
+                41,
+                56,
+                40,
+                37,
+                33,
+                55,
+                34
+            ],
+            "edge_label": 62,
+            "end_after_edge": 58,
+            "start_after_edge": 6,
+            "u": 9,
+            "v": 11
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                11,
+                32,
+                24,
+                18,
+                3,
+                4,
+                5,
+                6
+            ],
+            "edge_label": 63,
+            "end_after_edge": 61,
+            "start_after_edge": 45,
+            "u": 10,
+            "v": 11
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                26,
+                25,
+                19
+            ],
+            "edge_label": 64,
+            "start_after_edge": 10,
+            "u": 0,
+            "v": 13
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                29,
+                28,
+                51,
+                57,
+                2,
+                24,
+                32
+            ],
+            "edge_label": 65,
+            "end_after_edge": 64,
+            "start_after_edge": 20,
+            "u": 6,
+            "v": 13
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                46,
+                11
+            ],
+            "edge_label": 66,
+            "end_after_edge": 65,
+            "start_after_edge": 19,
+            "u": 5,
+            "v": 13
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                37,
+                4,
+                30,
+                49,
+                46,
+                11
+            ],
+            "edge_label": 67,
+            "end_after_edge": 65,
+            "start_after_edge": 35,
+            "u": 2,
+            "v": 13
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    7,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                63,
+                45,
+                47,
+                20
+            ],
+            "edge_label": 68,
+            "end_after_edge": 65,
+            "start_after_edge": 11,
+            "u": 3,
+            "v": 13
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    9,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                15,
+                16,
+                0,
+                9,
+                10,
+                26,
+                25,
+                19
+            ],
+            "edge_label": 69,
+            "end_after_edge": 64,
+            "start_after_edge": 32,
+            "u": 9,
+            "v": 13
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                69,
+                32,
+                27,
+                17,
+                29,
+                28,
+                51,
+                57
+            ],
+            "edge_label": 70,
+            "start_after_edge": 9,
+            "u": 0,
+            "v": 14
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 71,
+            "end_after_edge": 70,
+            "start_after_edge": 57,
+            "u": 1,
+            "v": 14
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                18,
+                47,
+                20,
+                65,
+                19
+            ],
+            "edge_label": 72,
+            "end_after_edge": 70,
+            "start_after_edge": 2,
+            "u": 4,
+            "v": 14
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                46,
+                11,
+                64,
+                69,
+                32,
+                24,
+                2
+            ],
+            "edge_label": 73,
+            "end_after_edge": 72,
+            "start_after_edge": 25,
+            "u": 5,
+            "v": 14
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                29,
+                28,
+                51,
+                57
+            ],
+            "edge_label": 74,
+            "end_after_edge": 70,
+            "start_after_edge": 19,
+            "u": 6,
+            "v": 14
+        },
+        {
+            "crossed": [
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                7,
+                54,
+                8,
+                0,
+                1,
+                18,
+                47,
+                20,
+                65,
+                19
+            ],
+            "edge_label": 75,
+            "end_after_edge": 74,
+            "start_after_edge": 60,
+            "u": 11,
+            "v": 14
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                69,
+                32,
+                27,
+                21,
+                22,
+                23,
+                29,
+                28,
+                51,
+                57,
+                75
+            ],
+            "edge_label": 76,
+            "start_after_edge": 16,
+            "u": 0,
+            "v": 15
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 77,
+            "end_after_edge": 76,
+            "start_after_edge": 0,
+            "u": 4,
+            "v": 15
+        },
+        {
+            "crossed": [
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                28,
+                51,
+                57,
+                75
+            ],
+            "edge_label": 78,
+            "end_after_edge": 76,
+            "start_after_edge": 8,
+            "u": 7,
+            "v": 15
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                11,
+                68,
+                32,
+                24,
+                18,
+                3,
+                4,
+                5,
+                6,
+                60,
+                7,
+                54,
+                8
+            ],
+            "edge_label": 79,
+            "end_after_edge": 78,
+            "start_after_edge": 45,
+            "u": 10,
+            "v": 15
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                7,
+                54,
+                8
+            ],
+            "edge_label": 80,
+            "end_after_edge": 78,
+            "start_after_edge": 60,
+            "u": 11,
+            "v": 15
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                65,
+                20,
+                47,
+                18,
+                1,
+                0
+            ],
+            "edge_label": 81,
+            "end_after_edge": 77,
+            "start_after_edge": 75,
+            "u": 14,
+            "v": 15
+        },
+        {
+            "crossed": [
+                [
+                    11,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                79,
+                80
+            ],
+            "edge_label": 82,
+            "start_after_edge": 54,
+            "u": 4,
+            "v": 16
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                55,
+                34,
+                59,
+                57,
+                75
+            ],
+            "edge_label": 83,
+            "end_after_edge": 82,
+            "start_after_edge": 7,
+            "u": 8,
+            "v": 16
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                7
+            ],
+            "edge_label": 84,
+            "end_after_edge": 83,
+            "start_after_edge": 80,
+            "u": 11,
+            "v": 16
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                34,
+                59,
+                57,
+                75
+            ],
+            "edge_label": 85,
+            "end_after_edge": 82,
+            "start_after_edge": 55,
+            "u": 12,
+            "v": 16
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    11,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                65,
+                20,
+                47,
+                18,
+                1,
+                0,
+                76,
+                78,
+                8,
+                54
+            ],
+            "edge_label": 86,
+            "end_after_edge": 82,
+            "start_after_edge": 75,
+            "u": 14,
+            "v": 16
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                8,
+                54
+            ],
+            "edge_label": 87,
+            "end_after_edge": 82,
+            "start_after_edge": 78,
+            "u": 15,
+            "v": 16
+        },
+        {
+            "crossed": [],
+            "crossed_edges": [],
+            "edge_label": 88,
+            "start_after_edge": 54,
+            "u": 4,
+            "v": 17
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    10,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ],
+                [
+                    0,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                11,
+                68,
+                32,
+                24,
+                18,
+                3,
+                4,
+                5,
+                6,
+                60,
+                7,
+                82
+            ],
+            "edge_label": 89,
+            "end_after_edge": 88,
+            "start_after_edge": 45,
+            "u": 10,
+            "v": 17
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    11,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    12,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                34,
+                59,
+                57,
+                75,
+                86,
+                87,
+                80,
+                79
+            ],
+            "edge_label": 90,
+            "end_after_edge": 88,
+            "start_after_edge": 85,
+            "u": 12,
+            "v": 17
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ],
+                [
+                    0,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                65,
+                20,
+                47,
+                18,
+                1,
+                0,
+                77,
+                8,
+                54
+            ],
+            "edge_label": 91,
+            "end_after_edge": 88,
+            "start_after_edge": 81,
+            "u": 14,
+            "v": 17
+        },
+        {
+            "crossed": [
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                8,
+                54
+            ],
+            "edge_label": 92,
+            "end_after_edge": 91,
+            "start_after_edge": 79,
+            "u": 15,
+            "v": 17
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    12,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                80,
+                79
+            ],
+            "edge_label": 93,
+            "end_after_edge": 90,
+            "start_after_edge": 82,
+            "u": 16,
+            "v": 17
+        },
+        {
+            "crossed": [
+                [
+                    11,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    13,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                11,
+                68,
+                32,
+                24,
+                18,
+                3,
+                4,
+                5,
+                6,
+                60,
+                7,
+                82,
+                93
+            ],
+            "edge_label": 94,
+            "start_after_edge": 79,
+            "u": 10,
+            "v": 18
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                7,
+                82,
+                93
+            ],
+            "edge_label": 95,
+            "end_after_edge": 94,
+            "start_after_edge": 60,
+            "u": 11,
+            "v": 18
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    14,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    12,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                34,
+                59,
+                57,
+                75,
+                86,
+                87,
+                80
+            ],
+            "edge_label": 96,
+            "end_after_edge": 94,
+            "start_after_edge": 85,
+            "u": 12,
+            "v": 18
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    7,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                8,
+                54,
+                90
+            ],
+            "edge_label": 97,
+            "end_after_edge": 94,
+            "start_after_edge": 80,
+            "u": 15,
+            "v": 18
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                80
+            ],
+            "edge_label": 98,
+            "end_after_edge": 96,
+            "start_after_edge": 93,
+            "u": 16,
+            "v": 18
+        },
+        {
+            "crossed": [
+                [
+                    13,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                79
+            ],
+            "edge_label": 99,
+            "end_after_edge": 94,
+            "start_after_edge": 90,
+            "u": 17,
+            "v": 18
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                7,
+                83,
+                85,
+                96
+            ],
+            "edge_label": 100,
+            "start_after_edge": 84,
+            "u": 11,
+            "v": 19
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    14,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                34,
+                59,
+                57,
+                75
+            ],
+            "edge_label": 101,
+            "end_after_edge": 100,
+            "start_after_edge": 96,
+            "u": 12,
+            "v": 19
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    11,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                65,
+                20,
+                47,
+                18,
+                1,
+                0,
+                76,
+                78,
+                8,
+                54,
+                90
+            ],
+            "edge_label": 102,
+            "end_after_edge": 100,
+            "start_after_edge": 75,
+            "u": 14,
+            "v": 19
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                96
+            ],
+            "edge_label": 103,
+            "end_after_edge": 100,
+            "start_after_edge": 86,
+            "u": 16,
+            "v": 19
+        },
+        {
+            "crossed": [
+                [
+                    14,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    12,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                79,
+                97,
+                80,
+                87,
+                86
+            ],
+            "edge_label": 104,
+            "end_after_edge": 103,
+            "start_after_edge": 90,
+            "u": 17,
+            "v": 19
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    13,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                80,
+                87,
+                86
+            ],
+            "edge_label": 105,
+            "end_after_edge": 103,
+            "start_after_edge": 97,
+            "u": 18,
+            "v": 19
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    15,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    14,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                34,
+                59,
+                57,
+                75,
+                100,
+                103,
+                86
+            ],
+            "edge_label": 106,
+            "start_after_edge": 96,
+            "u": 12,
+            "v": 20
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    13,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                65,
+                20,
+                47,
+                18,
+                1,
+                0,
+                76,
+                78,
+                8,
+                54,
+                90,
+                104,
+                105
+            ],
+            "edge_label": 107,
+            "end_after_edge": 106,
+            "start_after_edge": 86,
+            "u": 14,
+            "v": 20
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                8,
+                54,
+                90,
+                104,
+                105
+            ],
+            "edge_label": 108,
+            "end_after_edge": 106,
+            "start_after_edge": 78,
+            "u": 15,
+            "v": 20
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                96
+            ],
+            "edge_label": 109,
+            "end_after_edge": 106,
+            "start_after_edge": 87,
+            "u": 16,
+            "v": 20
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                80,
+                87
+            ],
+            "edge_label": 110,
+            "end_after_edge": 109,
+            "start_after_edge": 105,
+            "u": 18,
+            "v": 20
+        },
+        {
+            "crossed": [
+                [
+                    14,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                86
+            ],
+            "edge_label": 111,
+            "end_after_edge": 107,
+            "start_after_edge": 103,
+            "u": 19,
+            "v": 20
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    14,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                19,
+                65,
+                20,
+                47,
+                18,
+                1,
+                0,
+                76,
+                78,
+                8,
+                54,
+                90,
+                104
+            ],
+            "edge_label": 112,
+            "start_after_edge": 107,
+            "u": 14,
+            "v": 21
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    8,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                8,
+                54,
+                90,
+                104
+            ],
+            "edge_label": 113,
+            "end_after_edge": 112,
+            "start_after_edge": 78,
+            "u": 15,
+            "v": 21
+        },
+        {
+            "crossed": [
+                [
+                    14,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                79,
+                97,
+                80,
+                87,
+                108
+            ],
+            "edge_label": 114,
+            "end_after_edge": 112,
+            "start_after_edge": 104,
+            "u": 17,
+            "v": 21
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                80,
+                87,
+                108
+            ],
+            "edge_label": 115,
+            "end_after_edge": 112,
+            "start_after_edge": 97,
+            "u": 18,
+            "v": 21
+        },
+        {
+            "crossed": [
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    13,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                86,
+                107
+            ],
+            "edge_label": 116,
+            "end_after_edge": 112,
+            "start_after_edge": 105,
+            "u": 19,
+            "v": 21
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                105
+            ],
+            "edge_label": 117,
+            "end_after_edge": 116,
+            "start_after_edge": 108,
+            "u": 20,
+            "v": 21
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    10,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                8,
+                54,
+                90,
+                104
+            ],
+            "edge_label": 118,
+            "start_after_edge": 108,
+            "u": 15,
+            "v": 22
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                96,
+                110,
+                105,
+                115,
+                114
+            ],
+            "edge_label": 119,
+            "end_after_edge": 118,
+            "start_after_edge": 87,
+            "u": 16,
+            "v": 22
+        },
+        {
+            "crossed": [
+                [
+                    15,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                79,
+                97,
+                80,
+                87
+            ],
+            "edge_label": 120,
+            "end_after_edge": 119,
+            "start_after_edge": 104,
+            "u": 17,
+            "v": 22
+        },
+        {
+            "crossed": [
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    13,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                86,
+                107,
+                112,
+                113,
+                108
+            ],
+            "edge_label": 121,
+            "end_after_edge": 118,
+            "start_after_edge": 116,
+            "u": 19,
+            "v": 22
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                105,
+                115,
+                114
+            ],
+            "edge_label": 122,
+            "end_after_edge": 121,
+            "start_after_edge": 110,
+            "u": 20,
+            "v": 22
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                108
+            ],
+            "edge_label": 123,
+            "end_after_edge": 121,
+            "start_after_edge": 114,
+            "u": 21,
+            "v": 22
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                96,
+                110,
+                105,
+                115
+            ],
+            "edge_label": 124,
+            "start_after_edge": 119,
+            "u": 16,
+            "v": 23
+        },
+        {
+            "crossed": [
+                [
+                    14,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                79,
+                97,
+                80,
+                87,
+                119
+            ],
+            "edge_label": 125,
+            "end_after_edge": 124,
+            "start_after_edge": 114,
+            "u": 17,
+            "v": 23
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                80,
+                87,
+                119
+            ],
+            "edge_label": 126,
+            "end_after_edge": 124,
+            "start_after_edge": 97,
+            "u": 18,
+            "v": 23
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                105,
+                115
+            ],
+            "edge_label": 127,
+            "end_after_edge": 125,
+            "start_after_edge": 110,
+            "u": 20,
+            "v": 23
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                108,
+                122
+            ],
+            "edge_label": 128,
+            "end_after_edge": 125,
+            "start_after_edge": 115,
+            "u": 21,
+            "v": 23
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                114
+            ],
+            "edge_label": 129,
+            "end_after_edge": 125,
+            "start_after_edge": 122,
+            "u": 22,
+            "v": 23
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                96,
+                110,
+                105
+            ],
+            "edge_label": 130,
+            "start_after_edge": 119,
+            "u": 16,
+            "v": 24
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    9,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                80,
+                87,
+                119
+            ],
+            "edge_label": 131,
+            "end_after_edge": 130,
+            "start_after_edge": 115,
+            "u": 18,
+            "v": 24
+        },
+        {
+            "crossed": [
+                [
+                    15,
+                    "left"
+                ],
+                [
+                    15,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                86,
+                107,
+                117,
+                108,
+                122,
+                127,
+                124
+            ],
+            "edge_label": 132,
+            "end_after_edge": 131,
+            "start_after_edge": 105,
+            "u": 19,
+            "v": 24
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                108,
+                122,
+                127,
+                124
+            ],
+            "edge_label": 133,
+            "end_after_edge": 131,
+            "start_after_edge": 117,
+            "u": 21,
+            "v": 24
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                114,
+                125,
+                126,
+                115
+            ],
+            "edge_label": 134,
+            "end_after_edge": 131,
+            "start_after_edge": 129,
+            "u": 22,
+            "v": 24
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                115
+            ],
+            "edge_label": 135,
+            "end_after_edge": 134,
+            "start_after_edge": 124,
+            "u": 23,
+            "v": 24
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    10,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                80,
+                87,
+                119,
+                130,
+                124,
+                127
+            ],
+            "edge_label": 136,
+            "start_after_edge": 131,
+            "u": 18,
+            "v": 25
+        },
+        {
+            "crossed": [
+                [
+                    16,
+                    "left"
+                ],
+                [
+                    16,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    11,
+                    "left"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                86,
+                107,
+                117,
+                108,
+                122
+            ],
+            "edge_label": 137,
+            "end_after_edge": 136,
+            "start_after_edge": 105,
+            "u": 19,
+            "v": 25
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                105
+            ],
+            "edge_label": 138,
+            "end_after_edge": 137,
+            "start_after_edge": 127,
+            "u": 20,
+            "v": 25
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                114,
+                128,
+                115,
+                133,
+                132
+            ],
+            "edge_label": 139,
+            "end_after_edge": 136,
+            "start_after_edge": 122,
+            "u": 22,
+            "v": 25
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                115,
+                133,
+                132
+            ],
+            "edge_label": 140,
+            "end_after_edge": 136,
+            "start_after_edge": 128,
+            "u": 23,
+            "v": 25
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                124,
+                127
+            ],
+            "edge_label": 141,
+            "end_after_edge": 136,
+            "start_after_edge": 132,
+            "u": 24,
+            "v": 25
+        },
+        {
+            "crossed": [
+                [
+                    15,
+                    "left"
+                ],
+                [
+                    15,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ],
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                86,
+                107,
+                117,
+                108,
+                122
+            ],
+            "edge_label": 142,
+            "start_after_edge": 132,
+            "u": 19,
+            "v": 26
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                105,
+                137,
+                132
+            ],
+            "edge_label": 143,
+            "end_after_edge": 142,
+            "start_after_edge": 138,
+            "u": 20,
+            "v": 26
+        },
+        {
+            "crossed": [
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                108,
+                122
+            ],
+            "edge_label": 144,
+            "end_after_edge": 143,
+            "start_after_edge": 117,
+            "u": 21,
+            "v": 26
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                114,
+                128,
+                115,
+                133
+            ],
+            "edge_label": 145,
+            "end_after_edge": 143,
+            "start_after_edge": 122,
+            "u": 22,
+            "v": 26
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                124,
+                127,
+                140,
+                139
+            ],
+            "edge_label": 146,
+            "end_after_edge": 143,
+            "start_after_edge": 133,
+            "u": 24,
+            "v": 26
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                132
+            ],
+            "edge_label": 147,
+            "end_after_edge": 143,
+            "start_after_edge": 139,
+            "u": 25,
+            "v": 26
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    2,
+                    "right"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                105,
+                136,
+                141,
+                132,
+                146
+            ],
+            "edge_label": 148,
+            "start_after_edge": 127,
+            "u": 20,
+            "v": 27
+        },
+        {
+            "crossed": [
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    4,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                108,
+                122,
+                145,
+                139,
+                140
+            ],
+            "edge_label": 149,
+            "end_after_edge": 148,
+            "start_after_edge": 144,
+            "u": 21,
+            "v": 27
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                115,
+                133
+            ],
+            "edge_label": 150,
+            "end_after_edge": 148,
+            "start_after_edge": 140,
+            "u": 23,
+            "v": 27
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                124,
+                127
+            ],
+            "edge_label": 151,
+            "end_after_edge": 148,
+            "start_after_edge": 133,
+            "u": 24,
+            "v": 27
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                132,
+                146
+            ],
+            "edge_label": 152,
+            "end_after_edge": 149,
+            "start_after_edge": 141,
+            "u": 25,
+            "v": 27
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                139,
+                140
+            ],
+            "edge_label": 153,
+            "end_after_edge": 149,
+            "start_after_edge": 146,
+            "u": 26,
+            "v": 27
+        },
+        {
+            "crossed": [
+                [
+                    11,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    5,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                108,
+                122,
+                145,
+                139
+            ],
+            "edge_label": 154,
+            "start_after_edge": 144,
+            "u": 21,
+            "v": 28
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                114,
+                128,
+                115,
+                133,
+                149
+            ],
+            "edge_label": 155,
+            "end_after_edge": 154,
+            "start_after_edge": 139,
+            "u": 22,
+            "v": 28
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                115,
+                133,
+                149
+            ],
+            "edge_label": 156,
+            "end_after_edge": 154,
+            "start_after_edge": 128,
+            "u": 23,
+            "v": 28
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                132,
+                146,
+                153
+            ],
+            "edge_label": 157,
+            "end_after_edge": 154,
+            "start_after_edge": 140,
+            "u": 25,
+            "v": 28
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                139
+            ],
+            "edge_label": 158,
+            "end_after_edge": 154,
+            "start_after_edge": 153,
+            "u": 26,
+            "v": 28
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                140
+            ],
+            "edge_label": 159,
+            "end_after_edge": 157,
+            "start_after_edge": 149,
+            "u": 27,
+            "v": 28
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    11,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ],
+                [
+                    1,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                114,
+                128,
+                115,
+                133,
+                149,
+                154,
+                158,
+                153
+            ],
+            "edge_label": 160,
+            "start_after_edge": 139,
+            "u": 22,
+            "v": 29
+        },
+        {
+            "crossed": [
+                [
+                    7,
+                    "left"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    5,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                124,
+                127,
+                148,
+                152,
+                140,
+                157
+            ],
+            "edge_label": 161,
+            "end_after_edge": 160,
+            "start_after_edge": 151,
+            "u": 24,
+            "v": 29
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                132,
+                146
+            ],
+            "edge_label": 162,
+            "end_after_edge": 160,
+            "start_after_edge": 157,
+            "u": 25,
+            "v": 29
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                139
+            ],
+            "edge_label": 163,
+            "end_after_edge": 160,
+            "start_after_edge": 146,
+            "u": 26,
+            "v": 29
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    3,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                140,
+                157
+            ],
+            "edge_label": 164,
+            "end_after_edge": 161,
+            "start_after_edge": 153,
+            "u": 27,
+            "v": 29
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                153
+            ],
+            "edge_label": 165,
+            "end_after_edge": 164,
+            "start_after_edge": 158,
+            "u": 28,
+            "v": 29
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                115,
+                133,
+                149,
+                159,
+                153,
+                164
+            ],
+            "edge_label": 166,
+            "start_after_edge": 156,
+            "u": 23,
+            "v": 30
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    6,
+                    "left"
+                ],
+                [
+                    3,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                124,
+                127,
+                148,
+                152,
+                140
+            ],
+            "edge_label": 167,
+            "end_after_edge": 166,
+            "start_after_edge": 151,
+            "u": 24,
+            "v": 30
+        },
+        {
+            "crossed": [
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                132,
+                146,
+                161
+            ],
+            "edge_label": 168,
+            "end_after_edge": 166,
+            "start_after_edge": 140,
+            "u": 25,
+            "v": 30
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                140
+            ],
+            "edge_label": 169,
+            "end_after_edge": 167,
+            "start_after_edge": 164,
+            "u": 27,
+            "v": 30
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                153,
+                164
+            ],
+            "edge_label": 170,
+            "end_after_edge": 166,
+            "start_after_edge": 157,
+            "u": 28,
+            "v": 30
+        },
+        {
+            "crossed": [
+                [
+                    3,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                157
+            ],
+            "edge_label": 171,
+            "end_after_edge": 170,
+            "start_after_edge": 161,
+            "u": 29,
+            "v": 30
+        },
+        {
+            "crossed": [
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    7,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                115,
+                133,
+                149,
+                159,
+                153
+            ],
+            "edge_label": 172,
+            "start_after_edge": 156,
+            "u": 23,
+            "v": 31
+        },
+        {
+            "crossed": [
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    8,
+                    "left"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                139,
+                160,
+                165,
+                157,
+                170
+            ],
+            "edge_label": 173,
+            "end_after_edge": 172,
+            "start_after_edge": 163,
+            "u": 26,
+            "v": 31
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                140,
+                166
+            ],
+            "edge_label": 174,
+            "end_after_edge": 173,
+            "start_after_edge": 153,
+            "u": 27,
+            "v": 31
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                153
+            ],
+            "edge_label": 175,
+            "end_after_edge": 172,
+            "start_after_edge": 170,
+            "u": 28,
+            "v": 31
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                157,
+                170
+            ],
+            "edge_label": 176,
+            "end_after_edge": 173,
+            "start_after_edge": 164,
+            "u": 29,
+            "v": 31
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                164
+            ],
+            "edge_label": 177,
+            "end_after_edge": 176,
+            "start_after_edge": 166,
+            "u": 30,
+            "v": 31
+        },
+        {
+            "crossed": [
+                [
+                    10,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                132,
+                146,
+                161,
+                171,
+                164,
+                176
+            ],
+            "edge_label": 178,
+            "start_after_edge": 168,
+            "u": 25,
+            "v": 32
+        },
+        {
+            "crossed": [
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    9,
+                    "left"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                139,
+                160,
+                165,
+                157
+            ],
+            "edge_label": 179,
+            "end_after_edge": 178,
+            "start_after_edge": 163,
+            "u": 26,
+            "v": 32
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                153,
+                173
+            ],
+            "edge_label": 180,
+            "end_after_edge": 178,
+            "start_after_edge": 157,
+            "u": 28,
+            "v": 32
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                157
+            ],
+            "edge_label": 181,
+            "end_after_edge": 179,
+            "start_after_edge": 176,
+            "u": 29,
+            "v": 32
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                164,
+                176
+            ],
+            "edge_label": 182,
+            "end_after_edge": 178,
+            "start_after_edge": 170,
+            "u": 30,
+            "v": 32
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                170
+            ],
+            "edge_label": 183,
+            "end_after_edge": 182,
+            "start_after_edge": 173,
+            "u": 31,
+            "v": 32
+        },
+        {
+            "crossed": [
+                [
+                    11,
+                    "left"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                132,
+                146,
+                161,
+                171,
+                164
+            ],
+            "edge_label": 184,
+            "start_after_edge": 168,
+            "u": 25,
+            "v": 33
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                140,
+                166,
+                177,
+                170,
+                182
+            ],
+            "edge_label": 185,
+            "end_after_edge": 184,
+            "start_after_edge": 174,
+            "u": 27,
+            "v": 33
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                157,
+                178
+            ],
+            "edge_label": 186,
+            "end_after_edge": 185,
+            "start_after_edge": 164,
+            "u": 29,
+            "v": 33
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                164
+            ],
+            "edge_label": 187,
+            "end_after_edge": 184,
+            "start_after_edge": 182,
+            "u": 30,
+            "v": 33
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                170,
+                182
+            ],
+            "edge_label": 188,
+            "end_after_edge": 185,
+            "start_after_edge": 176,
+            "u": 31,
+            "v": 33
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                176
+            ],
+            "edge_label": 189,
+            "end_after_edge": 188,
+            "start_after_edge": 178,
+            "u": 32,
+            "v": 33
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                140,
+                166,
+                177,
+                170
+            ],
+            "edge_label": 190,
+            "start_after_edge": 174,
+            "u": 27,
+            "v": 34
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                153,
+                173,
+                183,
+                176,
+                188
+            ],
+            "edge_label": 191,
+            "end_after_edge": 190,
+            "start_after_edge": 180,
+            "u": 28,
+            "v": 34
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                164,
+                185
+            ],
+            "edge_label": 192,
+            "end_after_edge": 191,
+            "start_after_edge": 170,
+            "u": 30,
+            "v": 34
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                170
+            ],
+            "edge_label": 193,
+            "end_after_edge": 190,
+            "start_after_edge": 188,
+            "u": 31,
+            "v": 34
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                176,
+                188
+            ],
+            "edge_label": 194,
+            "end_after_edge": 191,
+            "start_after_edge": 182,
+            "u": 32,
+            "v": 34
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                182
+            ],
+            "edge_label": 195,
+            "end_after_edge": 194,
+            "start_after_edge": 185,
+            "u": 33,
+            "v": 34
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                153,
+                173,
+                183,
+                176
+            ],
+            "edge_label": 196,
+            "start_after_edge": 180,
+            "u": 28,
+            "v": 35
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                157,
+                178,
+                189,
+                182,
+                194
+            ],
+            "edge_label": 197,
+            "end_after_edge": 196,
+            "start_after_edge": 186,
+            "u": 29,
+            "v": 35
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                170,
+                191
+            ],
+            "edge_label": 198,
+            "end_after_edge": 197,
+            "start_after_edge": 176,
+            "u": 31,
+            "v": 35
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                176
+            ],
+            "edge_label": 199,
+            "end_after_edge": 196,
+            "start_after_edge": 194,
+            "u": 32,
+            "v": 35
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                182,
+                194
+            ],
+            "edge_label": 200,
+            "end_after_edge": 197,
+            "start_after_edge": 188,
+            "u": 33,
+            "v": 35
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                188
+            ],
+            "edge_label": 201,
+            "end_after_edge": 200,
+            "start_after_edge": 191,
+            "u": 34,
+            "v": 35
+        },
+        {
+            "crossed": [
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    6,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                157,
+                178,
+                189,
+                182
+            ],
+            "edge_label": 202,
+            "start_after_edge": 186,
+            "u": 29,
+            "v": 36
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                164,
+                185,
+                195,
+                188,
+                200
+            ],
+            "edge_label": 203,
+            "end_after_edge": 202,
+            "start_after_edge": 192,
+            "u": 30,
+            "v": 36
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                176,
+                197
+            ],
+            "edge_label": 204,
+            "end_after_edge": 203,
+            "start_after_edge": 182,
+            "u": 32,
+            "v": 36
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                182
+            ],
+            "edge_label": 205,
+            "end_after_edge": 202,
+            "start_after_edge": 200,
+            "u": 33,
+            "v": 36
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                188,
+                200
+            ],
+            "edge_label": 206,
+            "end_after_edge": 203,
+            "start_after_edge": 194,
+            "u": 34,
+            "v": 36
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                194
+            ],
+            "edge_label": 207,
+            "end_after_edge": 206,
+            "start_after_edge": 197,
+            "u": 35,
+            "v": 36
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                164,
+                185,
+                195,
+                188
+            ],
+            "edge_label": 208,
+            "start_after_edge": 192,
+            "u": 30,
+            "v": 37
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                170,
+                191,
+                201,
+                194,
+                206
+            ],
+            "edge_label": 209,
+            "end_after_edge": 208,
+            "start_after_edge": 198,
+            "u": 31,
+            "v": 37
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                182,
+                203
+            ],
+            "edge_label": 210,
+            "end_after_edge": 209,
+            "start_after_edge": 188,
+            "u": 33,
+            "v": 37
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                188
+            ],
+            "edge_label": 211,
+            "end_after_edge": 208,
+            "start_after_edge": 206,
+            "u": 34,
+            "v": 37
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                194,
+                206
+            ],
+            "edge_label": 212,
+            "end_after_edge": 209,
+            "start_after_edge": 200,
+            "u": 35,
+            "v": 37
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                200
+            ],
+            "edge_label": 213,
+            "end_after_edge": 212,
+            "start_after_edge": 203,
+            "u": 36,
+            "v": 37
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                170,
+                191,
+                201,
+                194
+            ],
+            "edge_label": 214,
+            "start_after_edge": 198,
+            "u": 31,
+            "v": 38
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                176,
+                197,
+                207,
+                200,
+                212
+            ],
+            "edge_label": 215,
+            "end_after_edge": 214,
+            "start_after_edge": 204,
+            "u": 32,
+            "v": 38
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                188,
+                209
+            ],
+            "edge_label": 216,
+            "end_after_edge": 215,
+            "start_after_edge": 194,
+            "u": 34,
+            "v": 38
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                194
+            ],
+            "edge_label": 217,
+            "end_after_edge": 214,
+            "start_after_edge": 212,
+            "u": 35,
+            "v": 38
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                200,
+                212
+            ],
+            "edge_label": 218,
+            "end_after_edge": 215,
+            "start_after_edge": 206,
+            "u": 36,
+            "v": 38
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                206
+            ],
+            "edge_label": 219,
+            "end_after_edge": 218,
+            "start_after_edge": 209,
+            "u": 37,
+            "v": 38
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                176,
+                197,
+                207,
+                200
+            ],
+            "edge_label": 220,
+            "start_after_edge": 204,
+            "u": 32,
+            "v": 39
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                182,
+                203,
+                213,
+                206,
+                218
+            ],
+            "edge_label": 221,
+            "end_after_edge": 220,
+            "start_after_edge": 210,
+            "u": 33,
+            "v": 39
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                194,
+                215
+            ],
+            "edge_label": 222,
+            "end_after_edge": 221,
+            "start_after_edge": 200,
+            "u": 35,
+            "v": 39
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                200
+            ],
+            "edge_label": 223,
+            "end_after_edge": 220,
+            "start_after_edge": 218,
+            "u": 36,
+            "v": 39
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                206,
+                218
+            ],
+            "edge_label": 224,
+            "end_after_edge": 221,
+            "start_after_edge": 212,
+            "u": 37,
+            "v": 39
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                212
+            ],
+            "edge_label": 225,
+            "end_after_edge": 224,
+            "start_after_edge": 215,
+            "u": 38,
+            "v": 39
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                182,
+                203,
+                213,
+                206
+            ],
+            "edge_label": 226,
+            "start_after_edge": 210,
+            "u": 33,
+            "v": 40
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                188,
+                209,
+                219,
+                212,
+                224
+            ],
+            "edge_label": 227,
+            "end_after_edge": 226,
+            "start_after_edge": 216,
+            "u": 34,
+            "v": 40
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                200,
+                221
+            ],
+            "edge_label": 228,
+            "end_after_edge": 227,
+            "start_after_edge": 206,
+            "u": 36,
+            "v": 40
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                206
+            ],
+            "edge_label": 229,
+            "end_after_edge": 226,
+            "start_after_edge": 224,
+            "u": 37,
+            "v": 40
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                212,
+                224
+            ],
+            "edge_label": 230,
+            "end_after_edge": 227,
+            "start_after_edge": 218,
+            "u": 38,
+            "v": 40
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                218
+            ],
+            "edge_label": 231,
+            "end_after_edge": 230,
+            "start_after_edge": 221,
+            "u": 39,
+            "v": 40
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ],
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                188,
+                209,
+                219,
+                212
+            ],
+            "edge_label": 232,
+            "start_after_edge": 216,
+            "u": 34,
+            "v": 41
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    5,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ],
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    1,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                194,
+                215,
+                225,
+                218,
+                230
+            ],
+            "edge_label": 233,
+            "end_after_edge": 232,
+            "start_after_edge": 222,
+            "u": 35,
+            "v": 41
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    4,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                206,
+                227
+            ],
+            "edge_label": 234,
+            "end_after_edge": 233,
+            "start_after_edge": 212,
+            "u": 37,
+            "v": 41
+        },
+        {
+            "crossed": [
+                [
+                    5,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                212
+            ],
+            "edge_label": 235,
+            "end_after_edge": 232,
+            "start_after_edge": 230,
+            "u": 38,
+            "v": 41
+        },
+        {
+            "crossed": [
+                [
+                    4,
+                    "right"
+                ],
+                [
+                    2,
+                    "left"
+                ]
+            ],
+            "crossed_edges": [
+                218,
+                230
+            ],
+            "edge_label": 236,
+            "end_after_edge": 233,
+            "start_after_edge": 224,
+            "u": 39,
+            "v": 41
+        },
+        {
+            "crossed": [
+                [
+                    2,
+                    "right"
+                ]
+            ],
+            "crossed_edges": [
+                224
+            ],
+            "edge_label": 237,
+            "end_after_edge": 236,
+            "start_after_edge": 227,
+            "u": 40,
+            "v": 41
+        }
+    ]
+}
